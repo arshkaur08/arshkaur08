@@ -9,11 +9,10 @@ Computer Science undergraduate passionate about building production-grade web ap
 </p>
 
 <p align="center">
+
 <a href="https://github.com/arshkaur08">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
 
 </p>
 
@@ -22,12 +21,12 @@ Computer Science undergraduate passionate about building production-grade web ap
 # 👩‍💻 About Me
 
 <div align="center">
-     <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="400" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="400" alt="Coding GIF"/>
 </div>
 
 <br/>
 
-🔭 **Currently Working On:** Building scalable applications, AI-powered software, and production-ready web platforms.
+🔭 **Currently Working On:** Building scalable web applications, AI-powered software, and production-ready platforms.
 
 🌱 **Currently Learning:** Applied AI, LLMs, System Design, Cloud, and Advanced Data Structures & Algorithms.
 
@@ -37,7 +36,7 @@ Computer Science undergraduate passionate about building production-grade web ap
 
 🎯 **Goal:** To become a world-class Software Engineer and build impactful products used by millions.
 
-💬 **GitHub Motto:** *Building bugs professionally. Fixing them accidentally.*
+💬 **Fun Fact:** Building bugs professionally. Fixing them accidentally.
 
 <br/>
 
@@ -51,12 +50,12 @@ Computer Science undergraduate passionate about building production-grade web ap
 
 <div align="center">
 
-|             Type            |  Count  | Description                                              |
-| :-------------------------: | :-----: | -------------------------------------------------------- |
-|      🤖 **AI Projects**     |  **3+** | Autonomous AI systems, AI Agents, LLM-based applications |
-| 🏗️ **Production Projects** |  **5+** | Full Stack applications deployed on cloud                |
-|   🛒 **Business Websites**  |  **3+** | E-commerce platforms and commercial web applications     |
-|  🛠️ **Personal Projects**  | **20+** | APIs, tools, dashboards, automation, utilities           |
+|             Type            |  Count  | Description                                                   |
+| :-------------------------: | :-----: | ------------------------------------------------------------- |
+|      🤖 **AI Projects**     |  **3+** | AI-powered applications, intelligent systems, and automation  |
+| 🏗️ **Production Projects** |  **5+** | Full Stack applications designed for real-world use           |
+|   🛒 **Business Websites**  |  **3+** | Modern commercial and e-commerce web applications             |
+|  🛠️ **Personal Projects**  | **20+** | APIs, tools, dashboards, utilities, and experimental projects |
 
 </div>
 
@@ -68,27 +67,67 @@ Computer Science undergraduate passionate about building production-grade web ap
 
 > Autonomous AI Incident Response Platform
 
+An AI-powered system designed to detect software incidents, analyze their root causes, and assist developers in resolving production issues.
+
+**Key Features**
+
 * AI-powered incident detection
-* Root Cause Analysis
-* AI-generated fixes
-* Production-ready architecture
-
-**Repository**
-
-https://github.com/arshkaur08
+* Automated Root Cause Analysis
+* AI-generated resolution suggestions
+* Production-focused architecture
+* Intelligent debugging assistance
 
 ---
 
-### 💻 Full Stack Applications
+### 🛍️ E-Commerce Platform
 
-Production-ready web applications focused on:
+> Production-grade modern shopping platform
 
-* Modern frontend development
-* REST APIs
-* Authentication
-* Database integration
-* Cloud deployment
-* Scalable backend architecture
+A full-stack e-commerce application designed to provide a smooth shopping experience while giving administrators complete control over products, orders, and users.
+
+**Key Features**
+
+* Modern responsive UI
+* Secure user authentication
+* Product management
+* Shopping cart functionality
+* Online payment integration
+* Admin dashboard
+* Cloud-based image management
+* Production-ready security
+
+---
+
+### 📚 Educational Platform
+
+> Complete digital learning and examination platform
+
+A web-based platform designed to help students access study material, prepare for examinations, and manage their academic resources from a single interface.
+
+**Key Features**
+
+* Student-focused interface
+* Examination preparation
+* Organized study resources
+* Responsive design
+* Scalable web architecture
+
+---
+
+### 👗 Fashion & Business Platform
+
+> Modern fashion e-commerce experience
+
+A production-oriented fashion platform focused on presenting products through a clean, visually appealing interface while supporting the complete online shopping experience.
+
+**Key Features**
+
+* Responsive fashion-focused UI
+* Product catalog
+* Online shopping experience
+* Modern frontend architecture
+* Secure backend
+* Cloud-based deployment
 
 ---
 
@@ -235,7 +274,7 @@ Production-ready web applications focused on:
 
 ---
 
-# 🔥 Coding Profiles
+# 🔥 GitHub Profile
 
 <div align="center">
 
@@ -281,18 +320,6 @@ Production-ready web applications focused on:
 
 ---
 
-# 🚀 Featured Live Projects
-
-<div align="center">
-
-| 🌍 Project  | 🔗 Live |         💻 Repository         |
-| :---------- | :-----: | :---------------------------: |
-| 🚀 Projects |    —    | https://github.com/arshkaur08 |
-
-</div>
-
----
-
 # 💬 Quote
 
 <div align="center">
@@ -330,18 +357,3 @@ Production-ready web applications focused on:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
-
-<!--
-**arshkaur08/arshkaur08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
