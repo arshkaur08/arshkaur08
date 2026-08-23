@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsh Deep Kaur</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • Applied AI
+Software Engineer • Full Stack Developer (MERN) • Applied AI
 </h3>
 
 <p align="center">
@@ -9,11 +9,9 @@ Computer Science undergraduate passionate about building production-grade web ap
 </p>
 
 <p align="center">
-
 <a href="https://github.com/arshkaur08">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -21,22 +19,18 @@ Computer Science undergraduate passionate about building production-grade web ap
 # 👩‍💻 About Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="400" alt="Coding GIF"/>
+     <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="400" alt="Coding GIF"/>
 </div>
 
 <br/>
 
-🔭 **Currently Working On:** Building scalable web applications, AI-powered software, and production-ready platforms.
+🔭 **Currently Working On:** Building scalable MERN applications, AI-powered software, and production-ready web platforms.
 
 🌱 **Currently Learning:** Applied AI, LLMs, System Design, Cloud, and Advanced Data Structures & Algorithms.
 
-💻 **Interests:** Full Stack Development, Artificial Intelligence, Software Engineering, and Problem Solving.
-
-📍 **Based In:** Panipat
+💼 **Experience:** Full Stack Developer focused on building real-world web applications and AI-powered systems.
 
 🎯 **Goal:** To become a world-class Software Engineer and build impactful products used by millions.
-
-💬 **Fun Fact:** Building bugs professionally. Fixing them accidentally.
 
 <br/>
 
@@ -50,12 +44,12 @@ Computer Science undergraduate passionate about building production-grade web ap
 
 <div align="center">
 
-|             Type            |  Count  | Description                                                   |
-| :-------------------------: | :-----: | ------------------------------------------------------------- |
-|      🤖 **AI Projects**     |  **3+** | AI-powered applications, intelligent systems, and automation  |
-| 🏗️ **Production Projects** |  **5+** | Full Stack applications designed for real-world use           |
-|   🛒 **Business Websites**  |  **3+** | Modern commercial and e-commerce web applications             |
-|  🛠️ **Personal Projects**  | **20+** | APIs, tools, dashboards, utilities, and experimental projects |
+|             Type            |  Count  | Description                                              |
+| :-------------------------: | :-----: | -------------------------------------------------------- |
+|      🤖 **AI Projects**     |  **3+** | Autonomous AI systems, AI Agents, LLM-based applications |
+| 🏗️ **Production Projects** |  **5+** | Full Stack MERN applications deployed on cloud           |
+|   🛒 **Business Websites**  |  **3+** | E-commerce platforms and commercial web applications     |
+|  🛠️ **Personal Projects**  | **20+** | APIs, tools, dashboards, automation, utilities           |
 
 </div>
 
@@ -67,67 +61,37 @@ Computer Science undergraduate passionate about building production-grade web ap
 
 > Autonomous AI Incident Response Platform
 
-An AI-powered system designed to detect software incidents, analyze their root causes, and assist developers in resolving production issues.
-
-**Key Features**
-
 * AI-powered incident detection
-* Automated Root Cause Analysis
-* AI-generated resolution suggestions
-* Production-focused architecture
-* Intelligent debugging assistance
+* Root Cause Analysis
+* AI-generated fixes
+* Production-ready architecture
 
 ---
 
-### 🛍️ E-Commerce Platform
+### Wobblix Clothing
 
-> Production-grade modern shopping platform
+Production Grade Streetwear E-Commerce Platform
 
-A full-stack e-commerce application designed to provide a smooth shopping experience while giving administrators complete control over products, orders, and users.
+**Features**
 
-**Key Features**
-
-* Modern responsive UI
-* Secure user authentication
-* Product management
-* Shopping cart functionality
-* Online payment integration
-* Admin dashboard
-* Cloud-based image management
-* Production-ready security
+* MERN Stack
+* Razorpay Integration
+* JWT Authentication
+* Admin Dashboard
+* Cloudinary
+* Production Security
 
 ---
 
-### 📚 Educational Platform
+### 📚 DCRUST Exams
 
-> Complete digital learning and examination platform
-
-A web-based platform designed to help students access study material, prepare for examinations, and manage their academic resources from a single interface.
-
-**Key Features**
-
-* Student-focused interface
-* Examination preparation
-* Organized study resources
-* Responsive design
-* Scalable web architecture
+A complete exam preparation platform built for DCRUST students.
 
 ---
 
-### 👗 Fashion & Business Platform
+### 👗 Moni Soni Royal Collection
 
-> Modern fashion e-commerce experience
-
-A production-oriented fashion platform focused on presenting products through a clean, visually appealing interface while supporting the complete online shopping experience.
-
-**Key Features**
-
-* Responsive fashion-focused UI
-* Product catalog
-* Online shopping experience
-* Modern frontend architecture
-* Secure backend
-* Cloud-based deployment
+Production-grade fashion e-commerce website.
 
 ---
 
@@ -274,7 +238,7 @@ A production-oriented fashion platform focused on presenting products through a 
 
 ---
 
-# 🔥 GitHub Profile
+# 🔥 Coding Profiles
 
 <div align="center">
 
@@ -288,7 +252,7 @@ A production-oriented fashion platform focused on presenting products through a 
 
 # 🎯 Learning & Goals
 
-* ✅ Production-grade Full Stack Development
+* ✅ Production-grade MERN Development
 * 🤖 Building AI Agents & Applied AI Applications
 * 📚 Mastering Data Structures & Algorithms
 * ⚡ Learning System Design & Cloud Architecture
@@ -320,13 +284,28 @@ A production-oriented fashion platform focused on presenting products through a 
 
 ---
 
+# 🚀 Featured Live Projects
+
+<div align="center">
+
+| 🌍 Project                    | 🔗 Live | 💻 Repository |
+| :---------------------------- | :-----: | :-----------: |
+| 👕 Wobblix                    |    —    |       —       |
+| 🚨 IncidentMind               |    —    |       —       |
+| 📚 DCRUST Exams               |    —    |       —       |
+| 👗 Moni Soni Royal Collection |    —    |       —       |
+
+</div>
+
+---
+
 # 💬 Quote
 
 <div align="center">
 
-### *"Building bugs professionally. Fixing them accidentally."*
+### *"Zyada mehnat karo. Zyada mehnat karne se ho jata hai."*
 
-**– Arsh Deep Kaur**
+**– Zakir Khan (Comedian)**
 
 </div>
 
